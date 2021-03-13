@@ -71,6 +71,7 @@ public class tesst {
 					}
 				}
 			}while(!maSV.isEmpty());
+			scanner.close();
 			System.out.println("Masv"+"\t"+"Ho ten SV"+"\t"+"Ngay sinh");
 			for(String str: DSSV)
 				System.out.println(str);
@@ -117,5 +118,6 @@ public class tesst {
 					break;
 				}
 			}while(cont);
+			input.close();
 }
 }
