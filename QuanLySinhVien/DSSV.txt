@@ -1,0 +1,6 @@
+1914775,9.5,Dinh Trong Dat,Nam,03/09/2001,Da Lat
+1914899,10,Tran Minh Canh,Nam,06/05/2000,Da Lat
+1658945,5,Le Thi Ph Cham,Nu,01/02/2001,Da Lat
+1614589,7,Dao Xuan Hai,Nam,03/05/2001,Dak Lak
+1914758,8,Ng Khanh Linh,Nu,23/11/2001,Thanh Hoa
+
